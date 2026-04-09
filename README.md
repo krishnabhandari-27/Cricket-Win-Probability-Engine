@@ -14,7 +14,7 @@ Built with **XGBoost**, **FastAPI**, and **Streamlit**.
 
 ## 📸 Screenshot
 
-> *(Add a screenshot of your Streamlit app here after running it)*
+> app_screenshot.png
 
 ---
 
