@@ -14,7 +14,7 @@ Built with **XGBoost**, **FastAPI**, and **Streamlit**.
 
 ## 📸 Screenshot
 
-> app_screenshot.png
+![App Screenshot](app_screenshot.png)
 
 ---
 
