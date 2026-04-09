@@ -48,11 +48,11 @@ It outputs a **win probability (%)** for the batting team, updated after every i
 ```
 cricket-win-predictor/
 │
-├── ipl.ipynb             # Data cleaning, feature engineering, model training
-├── app.py                # FastAPI backend (REST API)
-├── streamlit_app.py      # Streamlit frontend (web UI)
-├── requirements.txt      # All dependencies
-├── models/               # Saved model (generated after training)
+├── Cricket Win Probability Engine.ipynb             # Data cleaning, feature engineering, model training
+├── app.py                                           # FastAPI backend (REST API)
+├── streamlit_app.py                                 # Streamlit frontend (web UI)
+├── requirements.txt                                 # All dependencies
+├── models/                                          # Saved model (generated after training)
 │   └── xgb_model.pkl
 └── README.md
 ```
