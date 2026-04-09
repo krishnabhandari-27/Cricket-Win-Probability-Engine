@@ -8,7 +8,7 @@ Built with **XGBoost**, **FastAPI**, and **Streamlit**.
 
 ## 🔗 Live Demo
 
-👉 [Try the app here](https://your-app-name.streamlit.app) ← *replace with your Streamlit Cloud URL after deployment*
+👉 [Try the app here](https://cricket-win-probability-engine-da6gj3d22wxnmk7fzdqbba.streamlit.app/) 
 
 ---
 
