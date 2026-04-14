@@ -107,6 +107,3 @@ Then visit: `http://localhost:8000/predict?balls_remaining=30&wickets_fallen=3&c
 
 ---
 
-## 👤 Author
-
-**Your Name** — [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/your-username)
